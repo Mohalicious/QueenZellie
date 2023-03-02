@@ -4,9 +4,9 @@
 </div>
 <p align="center"> Queen Zellie is a chat bot for Telegram. Make it easy and fun to use Telegram.
   <br>
-  <a herf="https://t.me/sasmithaaaaa">Telegram | </a>
-  <a herf="https://t.me/antechcrew">Telegram Channel | </a>
-  <a herf="https://wa.me/+94719077818">Whatsapp</a>
+  <a herf="https://t.me/Mohaalicious">Telegram | </a>
+  <a herf="https://t.me/codelabske">Telegram Channel | </a>
+  <a herf="https://wa.me/254769527061">Whatsapp</a>
   </br>
 </p>  
   
